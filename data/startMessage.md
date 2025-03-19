@@ -1,4 +1,4 @@
-Bot Created Via [NFD](https://github.com/LloydAsp/nfd)
+欢迎来到LXFCX机器人
 
 使用方法：
 
